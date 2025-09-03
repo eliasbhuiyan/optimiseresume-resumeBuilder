@@ -42,12 +42,6 @@ OptimiseResume is an **AI-powered resume builder** that helps candidates:
 ### 🌐 Mini Portfolio  
 - Save personal info, projects, and links.  
 - Share a professional portfolio link with recruiters.  
-
-
-## 📸 Screenshots & Demo  
-
-> *(Add screenshots or a demo gif of the app UI here for portfolio showcase)*  
-
 ---
 
 ## 🔑 Why This Project is Unique  
